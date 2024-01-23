@@ -1,0 +1,14 @@
+C:\Users\amrin\Desktop\CPRG_211_F\Lab1Classes\Lab1Classes\bin\Debug\net8.0\Lab1Classes.exe
+C:\Users\amrin\Desktop\CPRG_211_F\Lab1Classes\Lab1Classes\bin\Debug\net8.0\Lab1Classes.deps.json
+C:\Users\amrin\Desktop\CPRG_211_F\Lab1Classes\Lab1Classes\bin\Debug\net8.0\Lab1Classes.runtimeconfig.json
+C:\Users\amrin\Desktop\CPRG_211_F\Lab1Classes\Lab1Classes\bin\Debug\net8.0\Lab1Classes.dll
+C:\Users\amrin\Desktop\CPRG_211_F\Lab1Classes\Lab1Classes\bin\Debug\net8.0\Lab1Classes.pdb
+C:\Users\amrin\Desktop\CPRG_211_F\Lab1Classes\Lab1Classes\obj\Debug\net8.0\Lab1Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amrin\Desktop\CPRG_211_F\Lab1Classes\Lab1Classes\obj\Debug\net8.0\Lab1Classes.AssemblyInfoInputs.cache
+C:\Users\amrin\Desktop\CPRG_211_F\Lab1Classes\Lab1Classes\obj\Debug\net8.0\Lab1Classes.AssemblyInfo.cs
+C:\Users\amrin\Desktop\CPRG_211_F\Lab1Classes\Lab1Classes\obj\Debug\net8.0\Lab1Classes.csproj.CoreCompileInputs.cache
+C:\Users\amrin\Desktop\CPRG_211_F\Lab1Classes\Lab1Classes\obj\Debug\net8.0\Lab1Classes.dll
+C:\Users\amrin\Desktop\CPRG_211_F\Lab1Classes\Lab1Classes\obj\Debug\net8.0\refint\Lab1Classes.dll
+C:\Users\amrin\Desktop\CPRG_211_F\Lab1Classes\Lab1Classes\obj\Debug\net8.0\Lab1Classes.pdb
+C:\Users\amrin\Desktop\CPRG_211_F\Lab1Classes\Lab1Classes\obj\Debug\net8.0\Lab1Classes.genruntimeconfig.cache
+C:\Users\amrin\Desktop\CPRG_211_F\Lab1Classes\Lab1Classes\obj\Debug\net8.0\ref\Lab1Classes.dll
